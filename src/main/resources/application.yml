@@ -1,0 +1,12 @@
+spring:
+  datasource:
+#    url: jdbc:mysql://10.243.140.54/pmts?characterEncoding=UTF-8&serverTimezone=CTT
+#    username: pmts
+#    password: wzV#d0Mk@bBAeB!4!vFHARxhj@oYQfdG
+    url: jdbc:mysql://10.253.49.58/spdb_lqq?characterEncoding=UTF-8&serverTimezone=CTT
+    username: root
+    password: kingstar123456
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 15

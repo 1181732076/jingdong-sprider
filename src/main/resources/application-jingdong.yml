@@ -1,0 +1,11 @@
+
+# \u5217\u8868\u9875\u6392\u91CD Redis \u914D\u7F6E
+jingdong:
+  distinctRedisHost: 192.168.101.160
+  distinctRedisPort: 6379
+  distinctRedisPassword: Redis123.com
+  distinctRedisDatabase: 1
+  distinctKey: JingDong
+  distinctTotal: 500000000
+  distinctError: 0.00001
+
